@@ -1,6 +1,6 @@
 # Prayer Time Bot
 
-The **Prayer Times Bot** is a Python-based Telegram bot that retrieves daily prayer times for specific locations, using data extracted from PDF files or through API integration. Users can request prayer times for a particular day, and the bot will respond with neatly formatted information. The bot can be customized to support various cities and time formats, making it suitable for users in different regions.
+The **Prayer Time Bot** is a Python-based Telegram bot that retrieves daily prayer times for specific locations, using data extracted from PDF files or through API integration. Users can request prayer times for a particular day, and the bot will respond with neatly formatted information. The bot can be customized to support various cities and time formats, making it suitable for users in different regions.
 
 ## Features
 
